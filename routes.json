@@ -1,0 +1,32 @@
+[
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\ajisu\\\\OneDrive\\\\Desktop\\\\akademi\\\\feakademi\\\\akademi\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\ajisu\\\\OneDrive\\\\Desktop\\\\akademi\\\\feakademi\\\\akademi\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "new",
+    "path": "/new",
+    "component": "C:\\\\Users\\\\ajisu\\\\OneDrive\\\\Desktop\\\\akademi\\\\feakademi\\\\akademi\\\\pages\\\\new.vue",
+    "chunkName": "pages/new"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "C:\\\\Users\\\\ajisu\\\\OneDrive\\\\Desktop\\\\akademi\\\\feakademi\\\\akademi\\\\pages\\\\register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\ajisu\\\\OneDrive\\\\Desktop\\\\akademi\\\\feakademi\\\\akademi\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
